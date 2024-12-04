@@ -1,0 +1,25 @@
+Cursor
+
+Ctrl + K -> Ai에게 코드 짜는 기능 요청 (ex: make cat web site)
+
+Ctrl + L -> chat gpt 같은 기능. AI와 대화  <맥북은 Command L>
+
+<head>, <body>,<hr> 과 같이 <>괄호에 있는 걸 Tag라고 함
+
+class = " " -> 태그에 이름표를 붙임(명찰) .classname
+
+<style>은 코디같은 개념
+
+id -> 하나만 존재(재활용X) #idname
+
+Ctrl + / -> 주석
+
+박스모델은 네모가 왼쪽 상단부터 쌓임
+
+우클릭 -> Format Document (Shift + Alt + F) 코드 정리정돈이 됨
+
+웹사이트 우클릭 -> 검사 -> 검사창 맨 왼쪽 상단 Inspector(덩어리가 어떤식으로 구성되어 있는지 볼 수 있음)
+
+exp(experience)
+
+사진은 png형태로 저장해야 파일이 깨질 확률이 적음
